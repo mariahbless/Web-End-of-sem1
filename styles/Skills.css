@@ -1,0 +1,21 @@
+table{
+    border: 2px 2px;
+    color: blue;
+    border-radius: 3px;
+
+}
+tr th{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+tr td{
+    border: 5px;
+    border-color: blue;
+    
+}

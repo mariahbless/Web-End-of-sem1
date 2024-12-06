@@ -1,0 +1,41 @@
+body{
+    background-image: url(../pictures/purple\ bd.jpg);
+    background-size: cover;
+}
+ul li a{
+text-decoration: none;
+padding: 3px;
+font-style: italic;
+font-weight: bold;
+color:antiquewhite;
+text-align: left;
+
+position: sticky;
+border: 2px solid blue;
+background-color: lightskyblue;
+color: blue;
+top: 10px;
+text-shadow:1px 1px wheat;
+margin-top: 20px;
+}
+
+
+
+ul{
+float: left;
+display:flex;
+justify-content: center;
+align-items: left;
+background: plum;
+}
+li a:hover{
+background-color: brown;
+color: azure;
+
+}
+ul li{
+list-style: none;
+margin-left: 20px;
+margin-top: 2Opx;
+font-size: 17px;
+}

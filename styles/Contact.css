@@ -1,0 +1,13 @@
+address{
+    text-align: center;
+}
+h1{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+body{
+    background-image: url(../pictures/blue\ sun.jpg);
+    background-size: cover;
+}

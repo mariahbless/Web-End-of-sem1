@@ -1,0 +1,15 @@
+.icons{
+   flex-basis: auto;
+   display: flex;
+   background-color:pink;
+}
+
+body{
+    background-image: url(../pictures/purple\ bd.jpg);
+    background-size: cover;
+}
+.icons:hover{
+  color: black;
+  background-color: aquamarine;
+}
+
