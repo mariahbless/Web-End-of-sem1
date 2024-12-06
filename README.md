@@ -1,1 +1,23 @@
-# Web-End-of-sem1
+##  2024/DCS/007/SS
+##  Web designing End of Sem 1
+##  Multiple choice questions
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+13)
+14)
+15)
+16)
+17)
+18)
+19)
+20)  
